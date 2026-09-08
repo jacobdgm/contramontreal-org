@@ -605,8 +605,8 @@
   location:
     en: "Patro Villeray Room 1.03"
     fr: "Patro Villeray Salle 1.03"
-  band: "TBD"
-  caller: "Jacob deGroot-Maggetti"
+  band: "Milo Pierick, Caroline Bruce-Robertson, & Jacob deGroot-Maggetti"
+  caller: "Neil Guertin"
 
 - date: "2026-10-04"
   start_time: "14:30"
@@ -615,7 +615,7 @@
     en: "Patro Villeray Room 1.03"
     fr: "Patro Villeray Salle 1.03"
   band: "Maia Dagher & Grace Hendrickson-Jones"
-  caller: "Neil Guertin"
+  caller: "Jacob deGroot-Maggetti"
 
 - date: "2026-10-17"
   start_time: "18:30"
@@ -671,11 +671,14 @@
   location:
     en: "Bibliothèque Langelier"
     fr: "Bibliothèque Langelier"
-  band: "TBD"
-  caller: "TBD"
+  band: "Michael Ayles, Émile Hooper, & Pierre Minn"
+  caller: "Grace Hendrickson-Jones"
   special:
     en: "Special event: Free Contra dance at Bibliothèque Langelier"
     fr: "Événement spécial: Contredanse gratuite à la bibliothèque Langelier"
+  text:
+    en: "This dance will be called in French"
+    fr: "Cette danse sera callée en français"
 
 - date: "2026-12-19"
   start_time: "18:30"

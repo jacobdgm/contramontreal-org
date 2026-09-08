@@ -64,15 +64,15 @@ LOCATION:{% if dance.location.fr == "TBD" %}À déterminer{% else %}{{dance.loca
 {% endif %}
 {% if page.lang == "en" %}
 {% if dance.cal_description.en %}
-DESCRIPTION:{{dance.cal_description.en}}
+DESCRIPTION:{{dance.cal_description.en}} https://www.contramontreal.org/
 {% else %}
-DESCRIPTION:Contra dance{% if hasCaller %} called by {{dance.caller}}{% endif %}{% if hasBand %} with music by {{dance.band}}{% endif %}
+DESCRIPTION:Contra dance{% if hasCaller %} called by {{dance.caller}}{% endif %}{% if hasBand %} with music by {{dance.band}}{% endif %} https://www.contramontreal.org/
 {% endif %}
 {% elsif page.lang == "fr" %}
 {% if dance.cal_description.fr %}
-DESCRIPTION:{{dance.cal_description.fr}}
+DESCRIPTION:{{dance.cal_description.fr}} https://www.contramontreal.org/accueil
 {% else %}
-DESCRIPTION:Contredanse{% if hasCaller %} callée par {{dance.caller}}{% endif %}{% if hasBand %} avec musique par {{dance.band}}{% endif %}
+DESCRIPTION:Contredanse{% if hasCaller %} callée par {{dance.caller}}{% endif %}{% if hasBand %} avec musique par {{dance.band}}{% endif %} https://www.contramontreal.org/accueil
 {% endif %}
 {% endif %}
 END:VEVENT

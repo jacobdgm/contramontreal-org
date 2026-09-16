@@ -11,11 +11,11 @@
     en: /en/get-involved
     fr: /fr/impliquez-vous
 - name:
-    en: Code of Conduct
-    fr: Code de conduite
+    en: Mission and Values
+    fr: Mission et valeurs
   target:
-    en: /en/code-of-conduct
-    fr: /fr/code-de-conduite
+    en: /en/mission-values
+    fr: /fr/mission-valeurs
 - name:
     en: Mailing List
     fr: Liste de diffusion
